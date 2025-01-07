@@ -56,7 +56,7 @@ function limparCampo() {
     chute = document.querySelector('input');
     chute.value = '';
 }
-
+//ola mundo
 function reiniciarJogo() {
     numeroSecreto = gerarNumeroAleatorio();
     limparCampo();
